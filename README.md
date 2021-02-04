@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/License-mit-blue.svg "License Badge")
 
 ## Application
-To view the Google-Books-React-Search app, click here: https://suzygiv.github.io/React-Portfolio/
+To view the Google-Books-React-Search app, click here: 
 
 
 ## Description
