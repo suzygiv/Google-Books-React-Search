@@ -41,8 +41,15 @@ Once 'App listening on PORT: 3000' displays in your terminal, open your browser 
 
 ### Google-Books-React-Search Main Page
 
-![Google-Main-Page]()
+![Google-Books-Main](https://github.com/suzygiv/Google-Books-React-Search/blob/main/client/public/Assets/Google-Books-Main.PNG)
 
+### Google-Books-React-Search Search Page
+
+![Google-Search](https://github.com/suzygiv/Google-Books-React-Search/blob/main/client/public/Assets/Google-Search.PNG)
+
+### Google-Books-React-Search Saved Page
+
+![Google-Books-Saved](https://github.com/suzygiv/Google-Books-React-Search/blob/main/client/public/Assets/Google-Books-Saved.PNG)
 
 ## License
 ![License](https://img.shields.io/badge/License-mit-blue.svg "License Badge")
